@@ -6,6 +6,7 @@ main{
     min-height: 700px;
     background-image: url("photo_Class2.jpg");
     background-attachment: fixed;
+    background-size:cover;
 }
 .card_ODN{
     margin-top: 100px;
@@ -76,3 +77,4 @@ header{
   align-items: center;
   justify-content: space-around;
 }
+
